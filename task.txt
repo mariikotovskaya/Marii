@@ -1,0 +1,11 @@
+let admin;
+let name “Джон”;
+admin = name;
+alert(admin);
+
+let myPlanet = “Моя планета”
+не поняла сути вопроса(
+
+1. hello 1
+2. hello name
+3. hello Ilya
